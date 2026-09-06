@@ -1,0 +1,3052 @@
+[
+  {
+    "id": 1,
+    "question": "En conduisant dans un tunnel pendant le jour, le conducteur doit:",
+    "choices": [
+      "Allumer les feux de croisement et ralentir",
+      "Klaxonner",
+      "Allumer les feux de croisement et accélérer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 2,
+    "question": "La nuit, si vous circulez derrière un autre véhicule, vous devez:",
+    "choices": [
+      "Utiliser les feux de croisement",
+      "Utiliser les feux de route",
+      "Ne pas allumer les feux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 3,
+    "question": "Si vous croisez un véhicule venant dans lautre sens alors que vos feux de route sont allumés, vous devez:",
+    "choices": [
+      "Eteindre tous les feux",
+      "Basculer répétitivement entre feux de route et feux de croisement",
+      "Utiliser les feux de croisement immédiatement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "Lorsque vous faites le plein de votre véhicule,",
+    "choices": [
+      "Vous pouvez fumer une cigarette",
+      "Il faut arrêter le moteur",
+      "Il nest pas obligatoire darrêter le moteur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 5,
+    "question": "Si le feu jaune s’allume au moment de vous engager dans une intersection, vous devez:",
+    "choices": [
+      "Vous arrêter immédiatement",
+      "Continuer de rouler avec prudence",
+      "Garder les yeux sur les feux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 6,
+    "question": "Si vous vous sentez fatigué et sur le point de vous endormir en conduisant, vous devez:",
+    "choices": [
+      "Prendre des amphétamines et poursuivre votre route",
+      "Ne pas vous préoccuper, ça ira",
+      "Vous arrêter à un endroit convenable au bord de la route et vous reposer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 7,
+    "question": "Sur une intersection, en présence simultanée d’un agent de circulation, des feux tricolores et dun signe fixe de route, vous devez:",
+    "choices": [
+      "Suivre les instructions de lagent de circulation",
+      "Réspecter les feux de circulation",
+      "Réspecter le signe fixe de route"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 8,
+    "question": "Lorsque vous vous installez dans votre véhicule vous devez dabord:",
+    "choices": [
+      "Ajuster le siège, les miroirs, puis porter la ceinture de sécurité",
+      "Porter la ceinture de sécurité, ajuster les miroirs, et puis le siège",
+      "Porter la ceinture de sécurité, ajuster le siège, et puis les miroirs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 9,
+    "question": "Chaque jour, avant de démarrer le véhicule pour la première fois, le conducteur",
+    "choices": [
+      "Doit écouter la météo",
+      "Doit effectuer une inspection routinère des systèmes du véhicule",
+      "Ne doit pas effectuer une inspection routinère des systèmes du véhicule si le moteur fonctionne bien"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 10,
+    "question": "En circulant, il est acceptable que le conducteur:",
+    "choices": [
+      "Lise le journal",
+      "Utilise le téléphone",
+      "Ecoute la radio à bas volume"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 11,
+    "question": "Le conducteur doit porter la ceinture de sécurité:",
+    "choices": [
+      "Il ny a pas besoin de porter la ceinture de sécurité quand le véhicule est muni de coussins gonflables",
+      "Au moment où un accident a lieu",
+      "Avant de démarrer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 12,
+    "question": "Le but de l’appui-tête est de:",
+    "choices": [
+      "Protéger le cou en cas d’une collision à l’arrière du véhicule",
+      "Servir de coussin durant les longs voyages",
+      "Poser la tête pour se relaxer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 13,
+    "question": "La capacité de concentration diminue chez le conducteur:",
+    "choices": [
+      "Quand il est plein dénergie",
+      "Quand il a sommeil",
+      "Quand il roule dans la ville"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 14,
+    "question": "Utiliser le téléphone portable en conduisant a des effets:",
+    "choices": [
+      "Positifs",
+      "Négatifs",
+      "Positifs et négatifs en même temps"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 15,
+    "question": "Le premier conseil à donner à un conducteur qui boit:",
+    "choices": [
+      "conduis lentement",
+      "Ne conduis pas avant que leffet de lalcool nait disparu complètement",
+      "Ne ten préoccupes pas, ça ira"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 16,
+    "question": "Conduire sous l’influence des médicaments est:",
+    "choices": [
+      "Dangereux",
+      "Moins pénible",
+      "Sans danger"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 17,
+    "question": "Quand la pédale de laccélérateur est bloquée, tu dois:",
+    "choices": [
+      "Arrêter le moteur sans verrouiller le volant",
+      "Tirer le frein à main",
+      "Changer le levier vers une vitesse plus petite"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 18,
+    "question": "Si le capot du moteur souvre de lui-même lorsque que vous roulez sur la route, vous devez immédiatement:",
+    "choices": [
+      "Accélérer un petit peu",
+      "Décélérer graduellement pour vous arrêter du côté de la route",
+      "Appuyer fortement sur la pédale de frein"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 19,
+    "question": "Pour éviter dêtre en retard quand il pleut, le conducteur doit:",
+    "choices": [
+      "Prendre la route un peu plus tôt que dhabitude",
+      "Prendre la route un peu plus tard que dhabitude",
+      "Prendre la route de bonne humeur"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 20,
+    "question": "Avant de prendre le véhicule, le conducteur doit:",
+    "choices": [
+      "Vérifier quil a assez de temps",
+      "Faire le tour du véhicule",
+      "Porter la ceinture de sécurité"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 21,
+    "question": "Lors dun embouteillage, le conducteur doit vérifier ses rétroviseurs chaque:",
+    "choices": [
+      "4 à 8 secondes",
+      "45 secondes",
+      "30 secondes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 22,
+    "question": "Avant de virer vers la droite, le conducteur doit jeter un coup doeil sur:",
+    "choices": [
+      "Tous les miroirs, et surtout le rétroviseur extérieur droit et les angles morts",
+      "Le rétroviseur extérieur droit uniquement",
+      "Le rétroviseur extérieur gauche uniquement"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 23,
+    "question": "Le plus grand danger que les véhicules garés sur la chaussée droite de la route posent sur les véhicules qui les croisent est caractérisé par:",
+    "choices": [
+      "Les piétons, et surtout les enfants, qui pourraient surgir dentre ces véhicules à nimporte quel moment",
+      "Les déchets qui pourraient être jetés de ces véhicules",
+      "Le volume de leur radio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 24,
+    "question": "Le danger que les véhicules garés sur la chaussée droite de la route posent sur les véhicules qui les croisent est caractérisé par:",
+    "choices": [
+      "Les sons émis par les systemes antivol",
+      "La porte du coffre quon peut ouvrir",
+      "Le fait que ces véhicules pourraient à nimporte quel moment démarrer et joindre la circulation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 25,
+    "question": "En tant que conducteur préventif, tu dois:",
+    "choices": [
+      "Insister sur la priorité de passage si elle te revient",
+      "Céder la priorité de passage pour éviter un accident",
+      "Ne jamais céder la priorité de passage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 26,
+    "question": "Avant de freiner, vous devez regarder:",
+    "choices": [
+      "Dans le rétroviseur intérieur",
+      "à droite",
+      "à gauche"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 27,
+    "question": "En cas de freinage bien appuyé, le système ABS des véhicules modernes:",
+    "choices": [
+      "Ne doit causer ni un bruit ni une vibration de la pédale de freins",
+      "Peut causer un bruit et une vibration de la pédale de freins",
+      "Peut causer une vibration de la pédale de freins uniquement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 28,
+    "question": "En cas de freinage bien appuyé, le système ABS dans les véhicules modernes:",
+    "choices": [
+      "Empêche le blocage des freins, et permet au conducteur de maintenir le contrôle de son véhicule",
+      "Empêche le blocage des freins uniquement",
+      "Nempêche pas le blocage des freins et ne permet pas au conducteur de maintenir le contrôle de son véhicule"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 29,
+    "question": "En cade de dérapage , vous devez:",
+    "choices": [
+      "Augmenter votre vitesse",
+      "Freiner et giriger votre véhicule dans le sens opposé au dérapage",
+      "Retirer le pied de la pédale daccélération sans appuyer sur la pédale de frein, et diriger le véhicule dans le sens du dérapage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 30,
+    "question": "Le conducteur doit laisser un espace de sécurité entre son vehicule et le véhicule devant lui pour:",
+    "choices": [
+      "Lire le numéro inscrit sur la plaque dimmatriculation arrière",
+      "Eviter la collision avec ce véhicule au cas où il sarrête soudainement",
+      "Profiter des vues fabuleuses qui lentourent"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 31,
+    "question": "Le véhicule devant vous se lance immédiatement lorsque le feu rouge tourne au vert, dans ce cas vous devez:",
+    "choices": [
+      "Vous lancer immédiatement derrière ce véhicule",
+      "Klaxonner",
+      "Attendre deux secondes avant de démarrer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 32,
+    "question": "Lorsque vous vous approchez d’une intersection où un feu orange clignote, vous devez:",
+    "choices": [
+      "Continuer à la même vitesse",
+      "Porter la ceinture de sécurité",
+      "Céder la priorité"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 33,
+    "question": "Le port de la ceinture de sécurité",
+    "choices": [
+      "Est obligatoire pour les passagers devant seulement",
+      "Nest pas nécessaire",
+      "Est obligatoire pour tous les passagers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 34,
+    "question": "Si ton véhicule tombe en panne sur lautoroute, tu dois:",
+    "choices": [
+      "Te dégager de lautoroute au premier détour",
+      "Tarrêter immédiatement là où tu es",
+      "Continuer vers ta destination"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 35,
+    "question": "Le conducteur doit tenir le volant avec:",
+    "choices": [
+      "Une seule main",
+      "Les deux mains",
+      "Le bout des doigts"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 36,
+    "question": "Il n’est pas permis à un camion chargé de prendre:",
+    "choices": [
+      "Plus quun passager",
+      "Plus que le nombre permis de passagers",
+      "Il n’est pas permis aux camions chargés de prendre des passagers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 37,
+    "question": "En attelant la remorque au véhicule le conducteur doit s’assurer que:",
+    "choices": [
+      "Une seule roue de la remorque touche le sol",
+      "Les freins de la remorque sont tirés et ses roues touchent le sol",
+      "Les freins de la remorque sont libres et ses roues touchent le sol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 38,
+    "question": "Après avoir attelé la remorque au tracteur, le conducteur doit verifier que:",
+    "choices": [
+      "seuls les tuyaux d’air sont connectés convenablement",
+      "les tuyaux d’air et les fils électriques sont connectés convenablement",
+      "seuls les fils électriques sont connectés convenablement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 39,
+    "question": "Pour atteler la remorque, le conducteur du tracteur doit:",
+    "choices": [
+      "Reculer le tracteur lentement au dessus de la remorque",
+      "Reculer le tracteur lentement au dessous de la remorque",
+      "Reculer le tracteur rapidement au dessous de la remorque"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 40,
+    "question": "Pour détacher la remorque du tracteur, le conducteur doit choisir:",
+    "choices": [
+      "Une surface plane et molle",
+      "Une surface inclinée et dure",
+      "Une surface inclinée et molle"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 41,
+    "question": "Pour détacher la remorque du tracteur, le conducteur doit:",
+    "choices": [
+      "Tirer les freins de la remorque et abaisser ses roues au maximum",
+      "Libérer les freins de la remorque et abaisser ses roues au maximum",
+      "Tirer les freins de la remorque et abaisser ses roues à moitié"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 42,
+    "question": "Les angles morts du poids lourd sont:",
+    "choices": [
+      "Au minimum quatre",
+      "Au minimum huit",
+      "Trois"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 43,
+    "question": "Le conducteur du poids lourd doit prendre en considération la hauteur de son véhicule en roulant notamment:",
+    "choices": [
+      "Sur lautoroute",
+      "Sur un pont",
+      "Sous un pont ou dans un tunnel"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 44,
+    "question": "Le conducteur du poids lourd doit prendre en considération la largeur de son véhicule notamment:",
+    "choices": [
+      "En dépassant un autre véhicule",
+      "En circulant sur l’autoroute",
+      "Pendant les sièstes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 45,
+    "question": "Le conducteur du poids lourd:",
+    "choices": [
+      "Doit faire marche arrière dans les endroits bondés",
+      "Doit faire marche arrière aux intersections",
+      "Ne doit pas faire marche arrière dans les endroits bondés"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 46,
+    "question": "En virant à droite, le conducteur dun poids lourd:",
+    "choices": [
+      "Ne doit pas laisser une distance suffisante à sa droite",
+      "Doit laisser une distance suffisante devant lui",
+      "Doit laisser une distance suffisante à sa droite"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 47,
+    "question": "Pour éviter que les roues à gauche à larrière du poids lourd ne dépassent la ligne centrale lors dun virage à gauche, vous devez:",
+    "choices": [
+      "Prendre l’extrême gauche",
+      "Prendre un peu votre droite",
+      "Augmenter la vitesse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 48,
+    "question": "Pour éviter que les roues à droite à larrière du poids lourd ne se branlent au bord de la route lors dun virage à droite, vous devez:",
+    "choices": [
+      "Prendre l’extrême droite",
+      "Augmenter la vitesse",
+      "Rouler au milieu de la voie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 49,
+    "question": "En vous approchant du sommet d’une pente,",
+    "choices": [
+      "vous devez vous attendre à des obstacles",
+      "vous ne devez pas vous attendre à des obstacles",
+      "vous devez vous attendre à une longue route droite"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 50,
+    "question": "En roulant dans une descente et pour contrôler votre poids lourd, vous devez notamment:",
+    "choices": [
+      "Changer le levier vers une vitesse plus petite",
+      "Utiliser les freins",
+      "Utiliser le frein à main"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 51,
+    "question": "Le freinage continu dans une longue descente diminue lefficacité des freins à cause:",
+    "choices": [
+      "de la forte inclinaison de la pente",
+      "de laugmentation de leur température",
+      "de la pression hydraulique du système de freinage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 52,
+    "question": "Lors dune longue descente, si le conducteur ne diminue pas la vitesse dembrayage au bon moment, la vitesse du poids lourd augmente et:",
+    "choices": [
+      "Il sera facile de passer à une vitesse dembrayage plus petite",
+      "Il sera impossible de passer à une vitesse dembrayage plus petite pour contrôler le véhicule",
+      "Il sera possible de dépasser plusieurs véhicules à la fois"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 53,
+    "question": "Lorsque vous conduisez votre poids lourd le long d’une montée, vous devez:",
+    "choices": [
+      "Empêcher les autres véhicules de vous dépasser",
+      "Circuler à gauche",
+      "Eviter dépuiser le moteur"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 54,
+    "question": "Lorsque vous conduisez votre poids lourd pendant longtemps sur une montée, vous devez:",
+    "choices": [
+      "Rester à lextrême gauche autant que possible",
+      "Rester à lextrême droite autant que possible Consulter la jauge du carburant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 55,
+    "question": "Si enconduisant votre poids lourd vous avez besoin de trop de temps pour dépasser un véhicule sur une montée, vous devez:",
+    "choices": [
+      "Etre résolu",
+      "Dépasser la limite de vitesse autorisée",
+      "Annuler le dépassement ou le remettre à plus tard"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 56,
+    "question": "Si vous allez conduire un véhicule sur un terrain rugueux (off-road), vous devez:",
+    "choices": [
+      "Augmenter un peu votre vitesse",
+      "Prendre vos précautions et planifier votre route en avance",
+      "Veiller sur ce qui se passe derriere vous"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 57,
+    "question": "Le contact visuel entre les conducteurs sur un croisement:",
+    "choices": [
+      "Aide les conducteurs à éviter la confusion routière",
+      "Est une sorte davertissement",
+      "Est interdit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 58,
+    "question": "Pour éviter les accidents, le conducteur doit éviter autant que possible:",
+    "choices": [
+      "De laver son véhicule sur la route",
+      "La marche arrière",
+      "La décélération progressive"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 59,
+    "question": "Selon la loi, le conducteur doit céder la priorité:",
+    "choices": [
+      "Aux femmes qui conduisent",
+      "Au véhicule qui roule à grande vitesse",
+      "A lautocar qui a allumé les feux de détresse"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 60,
+    "question": "Selon la loi, le conducteur doit céder la priorité:",
+    "choices": [
+      "Au véhicule qui est déjà dans le rond point",
+      "Au véhicule qui prend le rond point",
+      "Au véhicule à sa droite"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 61,
+    "question": "La loi permet de garer le véhicule près de la chaussée sur une route à deux voies de sens opposés:",
+    "choices": [
+      "A doite, selon le sens de circulation du véhicule",
+      "Nimporte où ,pourvu quil ne gêne pas la circulation",
+      "A gauche"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 62,
+    "question": "Manger excessivement:",
+    "choices": [
+      "Permet au conducteur de mieux conduire",
+      "Rend le conducteur passif et diminue son réflexe",
+      "Permet au conducteur de conduire plus vite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 63,
+    "question": "Le manque de sommeil:",
+    "choices": [
+      "Améliore le réflexe du conducteur",
+      "Diminue le réflexe du conducteur et affaiblit sa mémoire",
+      "Permet au conducteur de se concentrer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 64,
+    "question": "Dans les longs trajets, le conducteur doit s’arrêter chaque:",
+    "choices": [
+      "10 heures",
+      "8 heures",
+      "4 heures"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 65,
+    "question": "Dans les longs trajets, le conducteur doit s’arrêter chaque :",
+    "choices": [
+      "250 kilometres",
+      "750 kilometres",
+      "900 kilometres"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 66,
+    "question": "Conduire sous l’influence de l’alcool:",
+    "choices": [
+      "Met en danger la vie du conducteur",
+      "Met en danger la vie du conducteur et celle des autres usagers de la route",
+      "Met en danger la vie des usagers de la route seulement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 67,
+    "question": "Durant les longs trajets, le conducteur:",
+    "choices": [
+      "Ne doit jamais prendre des amphétamines pour rester éveillé",
+      "Doit prendre des amphétamines de façon régulière",
+      "Continuer à rouler sans se reposer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 68,
+    "question": "La meilleure façon de connaître l’effet d’un médicament sur la capacité de conduire est de:",
+    "choices": [
+      "Poser la question à un autre conducteur",
+      "Poser la question au médecin ou au pharmacien",
+      "Le tester sur un autre conducteur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 69,
+    "question": "Rouler sous l’influence de l’alcool et des drogues crée chez le conducteur un faux sentiment:",
+    "choices": [
+      "De colère",
+      "De courage et d’audace",
+      "De peur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 70,
+    "question": "Lorsque vous êtes sur le point de dépasser un véhicule,",
+    "choices": [
+      "Ne devez jamais compter sur les instructions du conducteur de ce véhicule",
+      "Compter sur les instructions du conducteur du véhicule derrière vous",
+      "Vous devez compter sur les instructions du conducteur de ce véhicule à travers les clignoteurs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 71,
+    "question": "Le conducteur du poids lourd doit prendre en considération la largeur de son véhicule",
+    "choices": [
+      "Lorsquil entre dans un endroit étroit",
+      "LorsquIl sarrête pour la sièste",
+      "Pendant le chargement du véhicule"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 72,
+    "question": "Si le conducteur du poids lourd veut faire marche arrière il doit compter sur :",
+    "choices": [
+      "La caméra arrière",
+      "Les rétroviseurs",
+      "Quelquun qui laide"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 73,
+    "question": "Après le remplissage dun camion-citerne, le conducteur doit:",
+    "choices": [
+      "Vérifier que tous les couvercles et toutes les valves de vidange sont bien fermés",
+      "Vérifier que les couvercles sont bien fermées",
+      "Vérifier que les valves de vidange sont bien fermées"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 74,
+    "question": "Quand la voie est délimitée par une ligne continue, ou par autres séparateurs de voies, le conducteur",
+    "choices": [
+      "doit conduire dans lautre sens",
+      "franchir ou chevaucher cette ligne",
+      "Ne doit pas franchir ni chevaucher cette ligne ou ces séparateurs de voies"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 75,
+    "question": "Lorsque le flux de circulation est normal, le conducteur doit:",
+    "choices": [
+      "Rouler à gauche",
+      "Franchir les lignes de séparation des voies pour dépasser les autre véhicules",
+      "Rouler à droite"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 76,
+    "question": "Quand la voie est délimitée par deux lignes adjacentes, lune continue et lautre discontinue (pointillée):",
+    "choices": [
+      "Il est permis au conducteur de franchir la ligne discontinue si cette ligne est directement à sa gauche",
+      "Il nest pas permis au conducteur de franchir la ligne discontinue si cette ligne est directement à sa gauche",
+      "Il nest pas permis au conducteur de franchir la ligne continue si cette ligne est directement à sa gauche"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 77,
+    "question": "La chaussée sert à:",
+    "choices": [
+      "Stationner le véhicule là où cest permis",
+      "Ranger de côté toute chose qui empêche la circulation sur la route",
+      "La circulation des piétions, poussettes, personnes malades et handicapées"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 78,
+    "question": "Un conducteur qui veut changer drastiquement de vitesse ou de direction doit:",
+    "choices": [
+      "Sassurer quil peut le faire sans danger et donner un signal",
+      "Franchir la ligne continue si cette ligne est directement à sa gauche",
+      "Franchir la ligne discontinue sans donner un signal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 79,
+    "question": "Le conducteur ne doit pas freiner bruquement, sauf",
+    "choices": [
+      "Pour éviter un danger",
+      "Pour sarrêter",
+      "Pour essayer les freins"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 80,
+    "question": "Le conducteur doit rouler:",
+    "choices": [
+      "A gauche, quand un autre conducteur est en train de le dépasser",
+      "A gauche, quand un autre véhicule se dirige vers lui dans lautre sens",
+      "A droite, quand un autre véhicule se dirige vers lui dans lautre sens"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 81,
+    "question": "Il est interdit au conducteur de:",
+    "choices": [
+      "Circuler à droite, quand un autre véhicule se dirige vers lui de lautre sens",
+      "Dépasser les convois militaires, policiers, ou autres qui sont en état de circulation",
+      "Dépasser un autre véhicule par la gauche quand la visibilité est bonne"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 82,
+    "question": "Il est interdit au conducteur de:",
+    "choices": [
+      "Rouler lentement sur le côté gauche de la route",
+      "Circuler dans la direction indiquée",
+      "Conduire au point mort sur une descente"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 83,
+    "question": "Il est interdit au conducteur de:",
+    "choices": [
+      "Sassurer quil peut effectuer le dépassement sans aucun danger pour lui ou pour autrui",
+      "Rouler dans le sens indiqué",
+      "Faire demi-tour au milieu de la route dans une zone peuplée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 84,
+    "question": "Il est interdit au conducteur de:",
+    "choices": [
+      "Sassurer quil peut effectuer le dépassement sans aucun danger pour lui ou pour autrui",
+      "Rouler dans le sens indiqué",
+      "Rouler dans un sens autre que le sens indiqué"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 85,
+    "question": "Il est interdit au conducteur de:",
+    "choices": [
+      "Rouler à droite",
+      "Sassurer quil peut effectuer le dépassement sans aucun danger pour lui ou pour autrui",
+      "Laver son véhicule sur la route"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 86,
+    "question": "Le conducteur",
+    "choices": [
+      "doit ralentir ou même sarrêter quand les conditions de la circulation le nécessitent, ou quand la visibilité nest pas bonne",
+      "ne doit pas prendre en considération létat de la route et ni la densité du trafic sur la route",
+      "doit accélérer quand la visibilité nest pas bonne"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 87,
+    "question": "Le conducteur doit:",
+    "choices": [
+      "Dépasser par la gauche",
+      "Dépasser par la doite sur les routes à voie unique",
+      "Rouler à droite"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 88,
+    "question": "En cas de croisement, le conducteur doit:",
+    "choices": [
+      "Circuler au milieu de la route sur les routes à voie unique",
+      "Conserver la gauche autant que possible",
+      "Conserver la droite autant que possible"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 89,
+    "question": "Avant deffectuer un dépassement, le conducteur",
+    "choices": [
+      "Ne doit pas respecter les pratiques de conduite dans les zones peuplées",
+      "Peut se lancer même si un conducteur derrière lui a initié un dépassement lui aussi",
+      "Doit sassurer que les conducteurs derrière lui nont pas initié un dépassement eux aussi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 90,
+    "question": "Avant deffectuer un dépassement, le conducteur:",
+    "choices": [
+      "A la priorité deffectuer son dépassement, même si le conducteur derrière lui a initié un dépassement lui aussi",
+      "Nest pas obligé de donner un signal au conducteur qui se trouve derrière lui",
+      "Doit donner un signal au conducteur quil voudrait dépasser"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 91,
+    "question": "En cas de dépassement, le conducteur:",
+    "choices": [
+      "Nest pas obligé de rester sur la droite juste après le dépassement",
+      "Peut circuler au milieu de la route même sil dérange les conducteurs qui circulent dans lautre sens",
+      "Peut circuler sur le côté gauche de la route, à condition de ne pas déranger les conducteurs qui circulent dans lautre sens"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 92,
+    "question": "Exceptionellement, il est permis deffectuer un dépassement par la droite:",
+    "choices": [
+      "Si le conducteur a donné un signal quil voudrait prendre la droite",
+      "Il est interdit deffectuer un dépassement par la droite",
+      "sur une route à plusieurs voies (plus que deux), à condition que le conducteur sassure que cette manoeuvre est sans risque et sans gêne pour les autres"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 93,
+    "question": "Il est interdit deffectuer un dépassement:",
+    "choices": [
+      "Par la gauche quand la route est marquée par une ligne discontinue",
+      "Si la route est divisée en plusieurs voies par des lignes discontinues",
+      "Dans les virages"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 94,
+    "question": "Il est interdit deffectuer un dépassement:",
+    "choices": [
+      "Sur les ponts et dans les tunnels",
+      "Sur les routes à voie unique",
+      "Par la droite dans tous les cas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 95,
+    "question": "Il est interdit deffectuer un dépassement:",
+    "choices": [
+      "Si plusieurs véhicules sont arrêtées en raison dune entrave à la circulation, ou dun signal darrêt",
+      "Si le côté gauche de la route sera libre après le dépassement",
+      "Si le véhicule que le conducteur voudrait dépasser circule du côté droit de la route"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 96,
+    "question": "Il est interdit deffectuer un dépassement:",
+    "choices": [
+      "Si la largeur de la route est suffisante pour effectuer le dépassement facilement et sans danger",
+      "Si les voies de la route sont séparées par des lignes discontinues",
+      "Au sommet dune montée, lorsque la visibilité nest pas assez bonne, pourvu que le côté gauche de la route soit libre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 97,
+    "question": "Si une voiture de police, une ambulance ou un camion de pompiers, donne un avertissment quil sapproche, les usagers des la route doivent:",
+    "choices": [
+      "Accélérer pour faciliter le passage de ce véhicule",
+      "Ralentir, ou même sarrêter de côté pour faciliter le passage de ce véhicule",
+      "Sarrêter immédiatement là où ils se trouvent pour faciliter le passage de de ce véhicule"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 98,
+    "question": "Il est interdit deffectuer un dépassement:",
+    "choices": [
+      "Si les voies de la route sont séparées par des lignes discontinues",
+      "Sur les routes montagnardes, étroites, ou à forte pente",
+      "Sur les routes larges"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 99,
+    "question": "A lapproche dune intersection, le conducteur doit:",
+    "choices": [
+      "Poursuivre son chemin sans vérifier sil y a dautres véhicules sur la route",
+      "Prendre sa droite",
+      "Vérifier que la route quil désire croiser est libre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 100,
+    "question": "Le conducteur qui sapprête à prendre une autre route à sa droite doit:",
+    "choices": [
+      "Prendre modérément sa gauche sans dépasser le milieu de la route",
+      "Rester du côté gauche de la route",
+      "Rester du côté droit de la route"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 101,
+    "question": "Le conducteur qui sapprête à prendre une autre route à sa gauche doit:",
+    "choices": [
+      "Rester au milieu de la route sans dévier ni à gauche ni à droite",
+      "Prendre modérément sa droite sans dépasser le milieu de la route",
+      "Prendre modérément sa gauche sans dépasser le milieu de la route"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 102,
+    "question": "Le conducteur qui sapprête à prendre une autre route doit:",
+    "choices": [
+      "Tourner à vitesse modérée après avoir vérifé quil ne dérange pas les autres ni ne les met en danger",
+      "Prendre la droite lentement",
+      "Tourner très rapidement pour ne pas déranger les autres"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 103,
+    "question": "Il est préférable de garder une distance de sécurité:",
+    "choices": [
+      "De tous les côtés du véhicule",
+      "A gauche et à droite du véhicule seulement",
+      "Devant et derrière le véhicule seulement"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 104,
+    "question": "Il est important de garder une distance de sécurité, parce quelle:",
+    "choices": [
+      "Permet aux autres véhicules dintégrer la circulation",
+      "Empêche le conducteur de se distraire",
+      "Donne un espace pour réagir"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 105,
+    "question": "Un feu vert continu sur lintersection signifie:",
+    "choices": [
+      "quil faut sarrêter et vérifier que la route est libre avant de continuer",
+      "quil est impossible de tourner vers la droite",
+      "quil est possible de franchir lintersection si il ny a pas dempêchement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 106,
+    "question": "Un feu jaune discontinu signifie:",
+    "choices": [
+      "quil est possible davancer si la route est libre",
+      "quil faut sarrêter et vérifier que la route est libre avant de continuer",
+      "quil faut ralentir et avancer prudemment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 107,
+    "question": "Un feu jaune sur lintersection signifie qu il faut:",
+    "choices": [
+      "Sarrêter",
+      "Démarrer",
+      "Ralentir et se préparer à sarrêter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 108,
+    "question": "Lorsquun pneu éclate sur la route, il faut:",
+    "choices": [
+      "Appuyer sur la pédale de frein pour ralentir, et se dégager de la route",
+      "Enlever le pieds délicatement de la pédale d’accélérateur pour permettre au véhicule de ralentir, retenir le volant des deux mains, et se dégager de la route",
+      "Abandonner le volant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 109,
+    "question": "Si les feux du véhicule den face dérangent le conducteur, le conducteur doit tourner son regard vers:",
+    "choices": [
+      "Le milieu de la route",
+      "Le côté gauche de la route",
+      "Le bas et du côté droit de la route"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 110,
+    "question": "Si votre véhicule tombe en panne sur l’autoroute :",
+    "choices": [
+      "Arrêtez-le sur la voie de circulation",
+      "Écartez-le de la chaussée autant que possible et utilisez les signaux de détresse",
+      "Continuez jusqu’à la prochaine sortie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 111,
+    "question": "Après avoir pris lautoroute, le conducteur doit:",
+    "choices": [
+      "Ralentir",
+      "Circuler à une vitesse inférieure à la vitesse indiquée",
+      "Circuler à une vitesse proche de celle de la circulation sur cette autoroute"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 112,
+    "question": "Si la voie est délimitée par deux lignes adjacentes, lune continue et lautre discontinue:",
+    "choices": [
+      "Il est permis au conducteur de franchir la ligne discontinue si cette ligne est directement à sa gauche",
+      "Il nest pas permis au conducteur de franchir la ligne continue si cette ligne est directement à sa gauche",
+      "Il nest pas permis au conducteur de franchir la ligne discontinue si cette ligne est directement à sa gauche"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 113,
+    "question": "Si le conducteur derrière toi est pressé alors que tu es sur la voie gauche dune autoroute, tu dois:",
+    "choices": [
+      "Accélérer",
+      "Appuyer sur la pédale de frein de façon intermittante pour quil se dégage",
+      "Prendre la voie de droite en ajustant la vistesse de ta voiture pour quelle corresponde au rythme de la circulation sur cette voie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 114,
+    "question": "Quand les freins ne fonctionnent plus alors que le conducteur est sur la route, le conducteur doit:",
+    "choices": [
+      "Arrêter le moteur",
+      "Se diriger immédiatement vers le garage",
+      "Appuyer répétitivement sur la pédale de frein"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 115,
+    "question": "Quand il fait mauvais temps, le conducteur doit:",
+    "choices": [
+      "Rouler à la vitesse maximale",
+      "Rouler en dessous de la vitesse maximale, selon les conditions de la route",
+      "Rouler à la vitesse maximale et allumer les feux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 116,
+    "question": "Le conducteur doit maintenir un espace de sécurité plus grand quand il roule:",
+    "choices": [
+      "Sur un route humide",
+      "Derrière dautres véhicules",
+      "Sur une route sèche"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 117,
+    "question": "La chaussée sert à:",
+    "choices": [
+      "La circulation des piétions, poussettes, personnes malades et handicapées",
+      "Ranger de côté toute chose qui empêche la circulation sur la route",
+      "Stationner le véhicule là où cest permis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 118,
+    "question": "Les feux stop arrière servent à indiquer aux autres conducteurs que tu:",
+    "choices": [
+      "prends un virage",
+      "changes de voie",
+      "Ralentis ou tu tarrêtes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 119,
+    "question": "Sur une intersection à quatre sens, la priorité revient au véhicule qui:",
+    "choices": [
+      "Arrive le premier et qui est déjà entré dans lintersection",
+      "Tourne vers la droite",
+      "Arrive le premier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 120,
+    "question": "Le conducteur doit sarrêter au feu:",
+    "choices": [
+      "Jaune clignotant",
+      "Rouge clignotant",
+      "Jaune continu"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 121,
+    "question": "Lorsque le conducteur partage la route avec un camion, il est bon de se rappeler que les camions:",
+    "choices": [
+      "Ont besoin dun rayon plus petit pour tourner",
+      "Ont besoin de moins de temps pour dépasser sur une descente",
+      "Ont besoin dun espace plus grand pour stationner"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 122,
+    "question": "En tournant à droite au feu vert, le conducteur doit:",
+    "choices": [
+      "Ralentir pour tourner",
+      "Continuer sur la même voie",
+      "Céder le passage aux piétons"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 123,
+    "question": "Le conducteur a le droit de refuser de se soumettre au test de dépistage dalcool ou de drogues:",
+    "choices": [
+      "Dans les cas durgence",
+      "Sil a moins de 21 ans",
+      "Il na pas le droit de refuser le test en aucun cas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 124,
+    "question": "En cas de brouillard, le conducteur doit utiliser:",
+    "choices": [
+      "Les feux de brouillard et/ ou les feux de route",
+      "Les feux de route",
+      "Les feux de brouillard et/ ou les feux de croisement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 125,
+    "question": "En effectuant un dépassement sur une autoroute à voies multiples, le conducteur:",
+    "choices": [
+      "Doit vérifier quil y a un espace suffisant sur la voie quil voudrait joindre",
+      "Nest pas obligé de donner un signal",
+      "Doit jeter un regard sur les véhicules circulant dans lautre sens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 126,
+    "question": "En effectuant un virage, le conducteur doit:",
+    "choices": [
+      "Maintenir sa vitesse",
+      "Accélérer",
+      "Ralentir"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 127,
+    "question": "Quand les feux tricolores sont en panne, le conducteur doit:",
+    "choices": [
+      "Donner la priorité au conducteur qui se trouve à gauche",
+      "Sarrêter et attendre la police routière",
+      "Agir comme sil était sur une intersection sans feux"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 128,
+    "question": "Un camion essaie de dépasser ton véhicule, tu dois:",
+    "choices": [
+      "Changer de voie",
+      "Accélérer",
+      "Maintenir ta vitesse ou ralentir"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 129,
+    "question": "Tu roules derrière une une motocyclette, tu dois:",
+    "choices": [
+      "Permettre à la motocyclette de circuler sur la moitié de la voie",
+      "Dépasser la motocyclette sur la voie même",
+      "Permettre à la motocyclette de circuler sur toute la largeur de la voie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 130,
+    "question": "Deux conducteurs venant de deux sens différents sapprochent dune intersection:",
+    "choices": [
+      "Chacun passe sans céder la priorité à lautre conducteur",
+      "Le conducteur venant de la gauche doit céder le passage à lautre conducteur",
+      "Le conducteur venant de la droite doit céder le passage à lautre conducteur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 131,
+    "question": "Avant de dépasser, dêtre dépassé, ou deffectuer un virage, le conducteur doit:",
+    "choices": [
+      "Ralentir, activer les clignotants pour avertir les autres conducteurs, et vérifier les miroirs",
+      "Ralentir et activer le clignotant au moment du virage",
+      "Ralentir, activer le clignotant bien en avance pour avertir les autres usagers de la route, vérifier les miroirs et les angles morts"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 132,
+    "question": "Il est interdit au conducteur qui effectue un dépassement",
+    "choices": [
+      "dutiliser la voie de gauche",
+      "de déranger les conducteurs à sa droite",
+      "dutiliser la voie de droite"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 133,
+    "question": "En labsence dun feu de signalisation, si un véhicule prend un virage alors quun piéton voudrait franchir la route, à qui revient la priorité?",
+    "choices": [
+      "Au piéton",
+      "A celui qui a la plus grande vitesse",
+      "Au véhicule"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 134,
+    "question": "Le gel se forme plus rapidement sur les routes:",
+    "choices": [
+      "Planes",
+      "Sinueuses",
+      "Qui sont dans lombre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 135,
+    "question": "Il est interdit au conducteur de:",
+    "choices": [
+      "Vérifier quil peut effectuer le dépassement sans aucun danger",
+      "Rester éveillé et en contrôle de son véhicule",
+      "Circuler dans une direction autre que la direction indiquée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 136,
+    "question": "Il est interdit au conducteur de:",
+    "choices": [
+      "Laver les véhicules sur la route",
+      "Vérifier quil peut effectuer le dépassement sans aucun danger",
+      "Circuler sur le côté droit de la route"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 137,
+    "question": "Il est interdit au conducteur de:",
+    "choices": [
+      "Circuler dans la direction indiquée",
+      "Effectuer un demi tour au milieu de la route",
+      "Vérifier quil peut effectuer le dépassement sans aucun danger"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 138,
+    "question": "Logiquement, le conducteur ne dois pas:",
+    "choices": [
+      "Rouler au delà de la vitesse maximale de 80 km/heure",
+      "Rouler au delà de la vitesse maximale",
+      "Rouler au delà de la vitesse de circulation des autres véhicules sur la route"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 139,
+    "question": "Tu peux sortir de la route pour dépasser un autre véhicule:",
+    "choices": [
+      "Si le véhicule devant toi se dirige vers la gauche",
+      "Sil y a assez de place pour ton véhicule sur la rue ou sur le passage piéton",
+      "Ceci nest pas permis en aucun cas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 140,
+    "question": "Le conducteur peut continuer à rouler avec prudence au feu jaune:",
+    "choices": [
+      "Sil est déjà entré dans lintersection",
+      "Sil est derrière un véhicule prioritaire (ambulance, camion pompier",
+      "Sil se dirige vers la droite"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 141,
+    "question": "Il est interdit au conducteur de:",
+    "choices": [
+      "Vérifier quil peut effectuer le dépassement sans aucun danger",
+      "Reparer les véhicules sur lautoroute sauf dans le cas durgence extrême",
+      "Circuler sur le côté droit de la route"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 142,
+    "question": "Le conducteur doit prendre son extrême droite:",
+    "choices": [
+      "Quand il roule à une vitesse inférieure à la vitesse applicable sur cette route",
+      "Quand il veut dépasser un autre véhicule",
+      "Quand la visibilité est bonne"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 143,
+    "question": "Il est interdit au conducteur qui dispose dun permis de conduire depuis plus de trois ans de conduire avec un taux dalcoolémie supérieur à:",
+    "choices": [
+      "0.3 grammes/litre",
+      "0.4 grammes/litre",
+      "0.5 grammes/litre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 144,
+    "question": "Il est interdit au conducteur qui dispose dun permis de conduire depuis moins de trois ans de conduire avec un taux dalcoolémie supérieur à:",
+    "choices": [
+      "0 grammes/litre",
+      "0.3 grammes/litre",
+      "0.5 grammes/litre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 145,
+    "question": "Il est interdit au conducteur qui roule sur la route de:",
+    "choices": [
+      "Utiliser tous les moyens de télécommunication",
+      "Tenir le volant dune main, et prendre un appel téléphonique de lautre",
+      "Conduire avec les deux mains, et répondre aux appels téléphoniques via bluetooth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 146,
+    "question": "En labsence dun panneau de signalisation, la vitesse maximale autorisée sur lautoroute est de:",
+    "choices": [
+      "80 km/heure",
+      "100 km/heure",
+      "120 km/heure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 147,
+    "question": "En labsence dun panneau de signalisation, la vitesse maximale autorisée en dehors des zones peuplées est de:",
+    "choices": [
+      "50 km/heure",
+      "60 km/heure",
+      "70 km/heure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 148,
+    "question": "En labsence dun panneau de signalisation, la vitesse maximale autorisée dans les zones peuplées est de:",
+    "choices": [
+      "60 km/heure",
+      "40 km/heure",
+      "50 km/heure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 149,
+    "question": "Le conducteur peut faire marche arrière sur lautoroute si la sortie est à:",
+    "choices": [
+      "La marche arrière est absolument interdite",
+      "10 metres",
+      "20 metres"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 150,
+    "question": "Sur les routes ordinaires, Le triangle de présignalisation doit être placé devant ou derrière le véhicule, selon la direction de la circulation, à ____ du véhicule:",
+    "choices": [
+      "20 metres",
+      "30 metres",
+      "40 metres"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 151,
+    "question": "Sur lautoroute, Le triangle de présignalisation doit être placé devant ou derrière le véhicule, selon la direction de la circulation, à ____ du véhicule:",
+    "choices": [
+      "60 metres",
+      "70 metres",
+      "50 metres"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 152,
+    "question": "Les piétons doivent utiliser les trottoirs, passages ou ponts qui leur sont réservés dans un rayon de :",
+    "choices": [
+      "50 mètres",
+      "100 mètres",
+      "150 mètres"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 153,
+    "question": "Si le conducteur cause un accident de route, et même lorsque les dégâts sont limités aux dégâts materiels, le conducteur est tenu à:",
+    "choices": [
+      "Quitter les lieux et fuire toute résponsabilité",
+      "Continuer à rouler",
+      "Sarrêter et suivre les modalités appropriées"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 154,
+    "question": "Si les feux de freinage ne fontionnent pas:",
+    "choices": [
+      "Le véhicule peut être confisqué",
+      "Ceci est considéré comme contravention de classe 2",
+      "Toutes les réponses précédentes sont correctes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 155,
+    "question": "La durée de vie maximale du pneu est atteinte:",
+    "choices": [
+      "à 4 ans depuis sa date de fabrication, ou à une épaisseur de gomme de 1.6 mm - lequel arrive en premier",
+      "à 5 ans depuis sa date de fabrication, ou à une épaisseur de gomme de 1.6 mm - lequel arrive en premier",
+      "à 6 ans depuis sa date de fabrication, ou à une épaisseur de gomme de 1.6 mm - lequel arrive en premier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 156,
+    "question": "Au feu vert, lors dun embouteillage, le conducteur doit:",
+    "choices": [
+      "Rouler lentement",
+      "Traverser rapidement au feu vert",
+      "Sabstenir de traverser afin de ne pas bloquer la circulation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 157,
+    "question": "Une procuration pour la vente dun véhicule est valide pour une période de:",
+    "choices": [
+      "Deux mois",
+      "Un mois",
+      "Trois mois"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 158,
+    "question": "Les lignes discontinues au milieu de la route:",
+    "choices": [
+      "Peuvent être franchises",
+      "Peuvent être chevauchées",
+      "Ne doivent pas être franchises"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 159,
+    "question": "Il est strictement interdit que les feux à lavant dun véhicule, soient de couleur autre que:",
+    "choices": [
+      "Le bleu ou le jaune",
+      "Le blanc ou le bleu",
+      "Le blanc ou le jaune"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 160,
+    "question": "Si la route est divisée en deux voies par une ligne jaune, le conducteur doit, en cas de circulation normale:",
+    "choices": [
+      "Circuler au milieu de la route",
+      "Circuler à gauche",
+      "Circuler à droite"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 161,
+    "question": "Quand la voie est délimitée par deux lignes jaunes adjacentes, une ligne continue, et une ligne discontinue:",
+    "choices": [
+      "Le conducteur peut franchir les deux lignes du côté de la ligne continue et ne peut pas les franchir du côté de la ligne discontinue",
+      "Le conducteur ne peut pas franchir les deux lignes ni du côté de la ligne discontinue ni du côté de la ligne continue",
+      "Le conducteur peut franchir les deux lignes du côté de la ligne discontinue et ne peut pas les franchir du côté de la ligne continue"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 162,
+    "question": "Le conducteur est tenu de céder la priorité aux:",
+    "choices": [
+      "Piétons",
+      "Voitures",
+      "Camions"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 163,
+    "question": "Sur les routes à forte pente, la priorité:",
+    "choices": [
+      "est donnée au véhicule qui descend",
+      "est donnée au véhicule qui monte",
+      "dépend de la route elle-même"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 164,
+    "question": "Dans les villes, il faut maintenir un espace de sécurité:",
+    "choices": [
+      "dune seconde",
+      "de deux mètres",
+      "de deux secondes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 165,
+    "question": "Dans un rond point, la priorité est toujours:",
+    "choices": [
+      "au véhicule qui arrive de la gauche",
+      "au véhicule qui arrive de la droite",
+      "au véhicule qui est déjà dans le rond point"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 166,
+    "question": "Il est interdit de dépasser dans un tunnel",
+    "choices": [
+      "à plusieurs voies",
+      "à deux vois",
+      "à voie unique"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 167,
+    "question": "En cas de travaux publics sur la route, le conducteur doit:",
+    "choices": [
+      "Allumer les feux",
+      "Accélérer",
+      "Ralentir"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 168,
+    "question": "Les enfants de moins de 5 ans doivent sasseoir:",
+    "choices": [
+      "Sur les genoux de leurs parents",
+      "Sur le siège arrière",
+      "Dans un siège auto pour enfant"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 169,
+    "question": "En approchant dune intersection, la priorité est toujours au conducteur qui est:",
+    "choices": [
+      "Déjà dans lintersection",
+      "A gauche",
+      "A droite"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 170,
+    "question": "En dépassant une bicyclette ou une motocyclette, le conducteur doit maintenir une distance latérale dau moins:",
+    "choices": [
+      "75 CM",
+      "65 Cm",
+      "70 Cm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 171,
+    "question": "En dépassant une voiture ou tout autre véhicule, le conducteur doit maintenir une distance latérale dau moins:",
+    "choices": [
+      "50 CM",
+      "45 CM",
+      "60 CM"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 172,
+    "question": "Il est interdit au conducteur de bloquer la circulation:",
+    "choices": [
+      "en stationnant lentement",
+      "en circulant à une vitesse inférieure à la vitesse de la circulation sur la route",
+      "en sarrêtant soudain sans raison"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 173,
+    "question": "En cas de croisement sur une route à deux sens, qui doit faire la marche arrière?",
+    "choices": [
+      "Plusieurs véhicules pour une seule voiture dans le sens opposé",
+      "Une seule voiture pour plusieurs voitures dans le sens opposé",
+      "Plusieurs poids lourds pour une seule voiture dans le sens opposé"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 174,
+    "question": "Qui a la priorité dans une intersection à trois voies?",
+    "choices": [
+      "Le conducteur qui roule avec prudence",
+      "Le conducteur qui vient de droite",
+      "Le conducteur qui est sur la voie directe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 175,
+    "question": "Lorsquil voit sur lautoroute une plaque de signalisation qui indique un détournement de la route, ou une nouvelle direction, le conducteur doit:",
+    "choices": [
+      "Se ranger rapidement au milieu, selon la direction à suivre",
+      "Se ranger rapidement vers la gauche ou vers la droite, selon la direction à suivre",
+      "Se ranger progressivement vers la gauche ou vers la droite, selon la direction à suivre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 176,
+    "question": "La ceinture de sécurité est obligatoire",
+    "choices": [
+      "Sur lauroroute, pour les passagers occupant les sièges avant et arrière, dans tous genres de véhicules",
+      "Pour les passagers occupant les sièges avant uniquement, dans tous genres de véhicules",
+      "Pour les passagers occupant les sièges avant et arrière, dans tous genres de véhicules"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 177,
+    "question": "Si la main du gendarme est levée vers le haut (verticalement), cela signifie:",
+    "choices": [
+      "Ralentissez rapidement",
+      "Attention, la circulation est bloquée",
+      "Attention, arrêtez-vous (sapplique à tous les usagers de la route)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 178,
+    "question": "Si les deux bras du gendarme sont tendus horizontalement, cela signifie:",
+    "choices": [
+      "Arrêtez-vous, sapplique à tous les usagers de la route qui viennent des deux sens qui se croisent avec les bras du gendarme",
+      "Ralentissez, sapplique à tous les usagers de la route qui viennent des deux sens qui se croisent avec les bras du gendarme",
+      "Cédez la voie, sapplique à tous les usagers de la route qui viennent des deux sens qui se croisent avec les bras du gendarme"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 179,
+    "question": "Tout véhicule doit être muni:",
+    "choices": [
+      "Dune plaque dimmatriculation à lavant et dune autre à larrière portant le numéro denregistrement du véhicule",
+      "Dune plaque dimmatriculation arrière",
+      "De deux plaques dimmatriculation à lavant ou à larrière, portant le numéro denregistrement du véhicule"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 180,
+    "question": "Jusquà lâge de 50 ans, le conducteur de véhicules privés doit renouveler son permis de conduire :",
+    "choices": [
+      "Tous les 20 ans",
+      "Tous les 5 ans",
+      "Tous les 10 ans"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 181,
+    "question": "Il est permis au conducteur dutiliser une alarme sonore uniquement :",
+    "choices": [
+      "Pour dire aux autres conducteurs quil faut aller plus vite",
+      "Pour éviter les embouteillages",
+      "Pour éviter les accidents"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 182,
+    "question": "En cas dabsence dun panneau qui indique de quel côté sortir de la voiture:",
+    "choices": [
+      "il faut sortir / monter du côté le plus convenable",
+      "il faut sortir / monter du côté gauche du véhicule",
+      "il faut sortir / monter du côté droit du véhicule"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 183,
+    "question": "Lorque le conducteur bouge sa main vers le haut et vers le bas, cela signifie:",
+    "choices": [
+      "que la voiture est en panne",
+      "quil se dirige vers la gauche",
+      "Ralentis et arrêtes-toi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 184,
+    "question": "Lorsque le conducteur tend sa main horizontalement, cela signifie:",
+    "choices": [
+      "quil veut faire marche arrière",
+      "quil se dirige vers la gauche",
+      "quil ralentit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 185,
+    "question": "Lorsque le conducteur lève sa main vers le haut, cela signifie:",
+    "choices": [
+      "quil sarrête",
+      "quil se dirige vers la gauche",
+      "quil se dirige vers la droite"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 186,
+    "question": "Les véhicules qui se dirigent vers la droite peuvent franchir un feu rouge à condition:",
+    "choices": [
+      "que le conducteur sarrête et vérifie quil peut le faire sans aucun danger sur les piétons et la circulation",
+      "que le conducteur le fasse rapidement",
+      "Il est absolument interdit aux véhicules qui se dirigent vers la droite de franchir un feu rouge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 187,
+    "question": "Quand la voie est marquée par une ligne contine,",
+    "choices": [
+      "Il est interdit de franchir la ligne pour passer dune file à une autre",
+      "Il est permis de franchir la ligne à condition que le conducteur le fasse rapidement",
+      "Il est permis de franchir la ligne pour passer dune file à une autre, à condition que le conducteur franchisse prudemment"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 188,
+    "question": "Les sièges à lavant sont interdits aux enfants de moins de:",
+    "choices": [
+      "10 ans",
+      "12 ans",
+      "8 ans"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 189,
+    "question": "Il est interdit de jeter quoi que ce soit de la voiture parce ça risque:",
+    "choices": [
+      "Deffacer le marquage du sol",
+      "De causer des accidents routiers, et de bloquer les drainages",
+      "Déranger la police routière dans son travail"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 190,
+    "question": "Quelle est la différence entre une ligne blanche et une ligne jaune au milieu de la route?",
+    "choices": [
+      "On utilise les lignes jaunes sur les bords de la route alors quon utilise les lignes blanches pour délimiter les voies",
+      "On utilise les lignes jaunes sur les routes à sens unique et les lignes blances sur les routes à deux sens",
+      "On utilise les lignes blanches pour délimiter les voies allant dans un même sens, et on utilise les lignes jaunes pour délimiter deux voies allant dans deux sens opposés"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 191,
+    "question": "Il est interdit de sarrêter et de stationner à une distance de moins de _____ des sommets des montées, des virages, des intersections, des ronds points, et des feux.",
+    "choices": [
+      "50 mètres",
+      "30 mètres",
+      "25 mètres"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 192,
+    "question": "Il est interdit au conducteur de:",
+    "choices": [
+      "Transporter dans son véhicule des bouteilles dalcool ayant dépassé la date dexpiration",
+      "Transporter dans son véhicule des bouteilles dalcool scellées par le fabricant",
+      "Transporter dans son véhicule des bouteilles dalcool non scellées par le fabricant"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 193,
+    "question": "Le conducteur doit sarrêter ou stationner:",
+    "choices": [
+      "Sur les lignes blanches des passages piétons",
+      "Après les lignes blanches des passages piétons",
+      "Avant les lignes blanches des passages piétons"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 194,
+    "question": "Il est interdit au conducteur de:",
+    "choices": [
+      "Rouler sur les lignes blanches",
+      "Franchir les lignes blanches discontinues",
+      "Circuler entre les lignes blanches"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 195,
+    "question": "",
+    "choices": [
+      "Attention, route glissante",
+      "Attention, casse-vitesse",
+      "Attention, abaissement de la route"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-000.png"
+  },
+  {
+    "id": 196,
+    "question": "",
+    "choices": [
+      "Rond point",
+      "Virage à gauche",
+      "Attention, virage à droite"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-001.png"
+  },
+  {
+    "id": 197,
+    "question": "",
+    "choices": [
+      "Attention,virage à droite",
+      "Le véhicule peut tourner à gauche",
+      "Attention, virage à gauche"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-002.png"
+  },
+  {
+    "id": 198,
+    "question": "",
+    "choices": [
+      "Attention, succession de virages commençant à droite",
+      "Attention, route à deux voies",
+      "Attention, succession de virages commençant à gauche"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-003.png"
+  },
+  {
+    "id": 199,
+    "question": "",
+    "choices": [
+      "Attention, route à deux voies",
+      "Attention, succession de virages commençant à gauche",
+      "Attention, succession de virages commençant à droite"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-004.png"
+  },
+  {
+    "id": 200,
+    "question": "",
+    "choices": [
+      "Attention, route étroite",
+      "Attention, descente dangereuse",
+      "Attention, route glissante"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-005.png"
+  },
+  {
+    "id": 201,
+    "question": "",
+    "choices": [
+      "Passage non sécurisé",
+      "Sens interdit",
+      "Attention, élèves ou école"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-006.png"
+  },
+  {
+    "id": 202,
+    "question": "",
+    "choices": [
+      "Attention, animaux sur la route",
+      "Animaux errants",
+      "Interdit aux animaux"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-007.png"
+  },
+  {
+    "id": 203,
+    "question": "",
+    "choices": [
+      "Attention, route à deux voies",
+      "Attention, intersection sans priorité",
+      "Circuler à droite"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-008.png"
+  },
+  {
+    "id": 204,
+    "question": "",
+    "choices": [
+      "Attention, dangers divers",
+      "Virage interdit",
+      "Attention, rond point"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-009.png"
+  },
+  {
+    "id": 205,
+    "question": "",
+    "choices": [
+      "Attention, intersection sans priorité",
+      "Attention, priorité aux véhicules venant en face",
+      "Attention, intersection"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-010.png"
+  },
+  {
+    "id": 206,
+    "question": "",
+    "choices": [
+      "Route menant à lautoroute",
+      "Attention, intersection sans priorité",
+      "Attention, priorité aux véhicules venant en face"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-011.png"
+  },
+  {
+    "id": 207,
+    "question": "",
+    "choices": [
+      "Attention, intersection à droite",
+      "Attention, intersection sans priorité",
+      "Attention, priorité aux véhicules venant en face"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-012.png"
+  },
+  {
+    "id": 208,
+    "question": "",
+    "choices": [
+      "Stationnement à durée limitée",
+      "Fin de la limite de vitesse",
+      "Route prioritaire"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-013.png"
+  },
+  {
+    "id": 209,
+    "question": "",
+    "choices": [
+      "Nest pas réservé aux piétons",
+      "Interdit aux piétons",
+      "Attention, passage piéton"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-014.png"
+  },
+  {
+    "id": 210,
+    "question": "",
+    "choices": [
+      "Attention, passage cyclistes",
+      "Passage pour poussettes",
+      "Interdit aux deux roues"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-015.png"
+  },
+  {
+    "id": 211,
+    "question": "",
+    "choices": [
+      "Attention, route étroite",
+      "Attention, route large",
+      "Attention, route étroite à gauche"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-016.png"
+  },
+  {
+    "id": 212,
+    "question": "",
+    "choices": [
+      "Priorité à droite",
+      "Route étroite à droite",
+      "Attention, route étroite à gauche"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-017.png"
+  },
+  {
+    "id": 213,
+    "question": "",
+    "choices": [
+      "Attention, priorité aux véhicules venant en face",
+      "Attention, route étroite à droite",
+      "Fin de priorité"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-018.png"
+  },
+  {
+    "id": 214,
+    "question": "",
+    "choices": [
+      "Attention, roches ou de chute de roches sur la route",
+      "Attention, route étroite",
+      "Région montagnarde"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-019.png"
+  },
+  {
+    "id": 215,
+    "question": "",
+    "choices": [
+      "Sens interdit aux véhicules de tous genres",
+      "Attention, feu de circulation",
+      "Attention, rond point"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-020.png"
+  },
+  {
+    "id": 216,
+    "question": "",
+    "choices": [
+      "Sens interdit",
+      "Ceder le passage, route prioritaire",
+      "Attention, dangers divers"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-021.png"
+  },
+  {
+    "id": 217,
+    "question": "",
+    "choices": [
+      "Sens interdit",
+      "Céder le passage, route prioritaire",
+      "Attention, dangers divers"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-022.png"
+  },
+  {
+    "id": 218,
+    "question": "",
+    "choices": [
+      "Attention, priorité aux véhicules venant en face",
+      "Sens interdit",
+      "Fin de priorité"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-023.png"
+  },
+  {
+    "id": 219,
+    "question": "",
+    "choices": [
+      "Attention, priorité aux véhicules venant en face",
+      "Dépassement interdit aux véhicules de tous genres",
+      "Fin de priorité"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-024.png"
+  },
+  {
+    "id": 220,
+    "question": "",
+    "choices": [
+      "Route à voie unique",
+      "Sens interdit",
+      "Arrêtez-vous"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-025.png"
+  },
+  {
+    "id": 221,
+    "question": "",
+    "choices": [
+      "Route à voie unique",
+      "Stationnement interdit",
+      "Sens interdit aux véhicules de tous genres"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-026.png"
+  },
+  {
+    "id": 222,
+    "question": "",
+    "choices": [
+      "Dangers divers",
+      "Stationnement interdit",
+      "Sens interdit"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-027.png"
+  },
+  {
+    "id": 223,
+    "question": "",
+    "choices": [
+      "Dépassement interdit aux camions",
+      "Dépassement interdit aux véhicules de tous genres",
+      "Sens interdit"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-028.png"
+  },
+  {
+    "id": 224,
+    "question": "",
+    "choices": [
+      "Vitesse maximale: 30 km/heure",
+      "Céder le passage, route prioritaire",
+      "Vitesse minimale: 80 km/heure"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-029.png"
+  },
+  {
+    "id": 225,
+    "question": "",
+    "choices": [
+      "Théatre",
+      "Stationnement interdit",
+      "Klaxonnement interdit"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-030.png"
+  },
+  {
+    "id": 226,
+    "question": "",
+    "choices": [
+      "Route réservée aux camions",
+      "Dépassement permis aux camions",
+      "Dépassement interdit aux camions"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-031.png"
+  },
+  {
+    "id": 227,
+    "question": "",
+    "choices": [
+      "Passage autorisé aux véhicules transportant des animaux",
+      "Passage interdit aux piétons",
+      "Passage interdit aux véhicules transportant des animaux"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-032.png"
+  },
+  {
+    "id": 228,
+    "question": "",
+    "choices": [
+      "Passage interdit aux voitures",
+      "Attention, voie résérvée aux piétons",
+      "Passage interdit aux piétons"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-033.png"
+  },
+  {
+    "id": 229,
+    "question": "",
+    "choices": [
+      "Passage obligatoire pour les voitures",
+      "Voie résérvée aux deux roues",
+      "Passage interdit aux deux roues"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-034.png"
+  },
+  {
+    "id": 230,
+    "question": "",
+    "choices": [
+      "Voie réservée aux deux roues",
+      "Voie résérvée aux deux roues",
+      "Passage interdit aux deux roues"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-035.png"
+  },
+  {
+    "id": 231,
+    "question": "",
+    "choices": [
+      "Passage interdit aux poussettes",
+      "Stationnement interdit aux poussettes",
+      "Voie réservée aux poussettes"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-036.png"
+  },
+  {
+    "id": 232,
+    "question": "",
+    "choices": [
+      "Passage interdit aux véhicules de tous genres",
+      "Interdit aux voitures de stationner",
+      "Voie résérvée aux voitures"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-037.png"
+  },
+  {
+    "id": 233,
+    "question": "",
+    "choices": [
+      "Passage interdit aux camions de plus de 2,3 m de longueur",
+      "Passage interdit aux camions",
+      "Passage interdit aux voitures de plus de 2,3 m de largeur"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-038.png"
+  },
+  {
+    "id": 234,
+    "question": "",
+    "choices": [
+      "Passage interdit aux camions de plus de 3.5 tonnes",
+      "Passage interdit aux camions de plus de 3,5 m de hauteur",
+      "Direction obligatoire pour les camions"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-039.png"
+  },
+  {
+    "id": 235,
+    "question": "",
+    "choices": [
+      "Passage interdit aux camions transportant plus de 6.5 tonnes de cargaison",
+      "Passage interdit aux aux camions de plus de 10 m de longueur",
+      "La cargaison ne doit pas dépasser les 10 m en hauteur"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-040.png"
+  },
+  {
+    "id": 236,
+    "question": "",
+    "choices": [
+      "Passage interdit aux camions de plus de 7 m de hauteur",
+      "Passage interdit aux camions portant plus de 7 tonnes par pneu",
+      "Passage interdit aux camions transportant plus de 7 tonnes de cargaison"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-041.png"
+  },
+  {
+    "id": 237,
+    "question": "",
+    "choices": [
+      "Début de signalisation restrictive",
+      "Excès de vitesse interdit",
+      "Fin de signalisation restrictive"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-042.png"
+  },
+  {
+    "id": 238,
+    "question": "",
+    "choices": [
+      "Limite de vitesse",
+      "Début de limite de vitesse",
+      "Fin de limites de vitesse"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-043.png"
+  },
+  {
+    "id": 239,
+    "question": "",
+    "choices": [
+      "Tourner à droite",
+      "Obligation de tourner à gauche",
+      "Interdit de tourner à droite"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-044.png"
+  },
+  {
+    "id": 240,
+    "question": "",
+    "choices": [
+      "Tourner à gauche",
+      "Obligation daller tout droit ou de tourner à droite",
+      "Interdit de tourner à gauche"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-045.png"
+  },
+  {
+    "id": 241,
+    "question": "",
+    "choices": [
+      "Interdit de tourner à gauche ou à droite",
+      "Obligation daller tout droit",
+      "Il est possible de tourner à gauche ou à droite"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-046.png"
+  },
+  {
+    "id": 242,
+    "question": "",
+    "choices": [
+      "Obligation aux camions de tourner à droite",
+      "Interdit de tourner à gauche",
+      "Il est possible daller tout droit ou de tourner à droite"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-047.png"
+  },
+  {
+    "id": 243,
+    "question": "",
+    "choices": [
+      "Interdit de tourner à gauche",
+      "Passage obligatoire à gauche",
+      "Il est possible daller tout droit ou de tourner à gauche"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-048.png"
+  },
+  {
+    "id": 244,
+    "question": "",
+    "choices": [
+      "Il est possible de tourner à droite",
+      "Voie principale",
+      "Passage obligatoire à gauche"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-049.png"
+  },
+  {
+    "id": 245,
+    "question": "",
+    "choices": [
+      "Passage obligatoire à droite",
+      "Interdit de tourner à droite",
+      "Il est possible daller tout droit"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-050.png"
+  },
+  {
+    "id": 246,
+    "question": "",
+    "choices": [
+      "Interdit de tourner à gauche ou à droite",
+      "Il est possible de tourner à droite",
+      "Passage obligatoire à droite ou à gauche"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-051.png"
+  },
+  {
+    "id": 247,
+    "question": "",
+    "choices": [
+      "Voie réservée aux piétons et aux deux roues",
+      "Voie réservée aux deux roues",
+      "Fin de la piste cyclable"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-052.png"
+  },
+  {
+    "id": 248,
+    "question": "",
+    "choices": [
+      "Passage interdit aux piétons et aux deux roues",
+      "Voie réservée uniquement aux piétons et aux deux roues",
+      "Fin de la piste cyclable"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-053.png"
+  },
+  {
+    "id": 249,
+    "question": "",
+    "choices": [
+      "Passage obligatoire à droite",
+      "Sens de circulation",
+      "Interdit de tourner à droite"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-054.png"
+  },
+  {
+    "id": 250,
+    "question": "",
+    "choices": [
+      "Obligation de tourner",
+      "Sens de circulation",
+      "Interdit de tourner"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-055.png"
+  },
+  {
+    "id": 251,
+    "question": "",
+    "choices": [
+      "Fin de dépassement interdit aux bus",
+      "Voie réservée aux bus",
+      "Passage interdit aux bus"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-056.png"
+  },
+  {
+    "id": 252,
+    "question": "",
+    "choices": [
+      "Passage interdit aux camions",
+      "Passage interdit aux camions dont le poids dépasse les 6.5 tonnes",
+      "Voie réservée aux camions"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-057.png"
+  },
+  {
+    "id": 253,
+    "question": "",
+    "choices": [
+      "Passage interdit aux camions dont le poids de la cargaison dépasse les 6.5 tonnes",
+      "Route obligatoire pour les camions",
+      "Stationnement interdit aux camions"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-058.png"
+  },
+  {
+    "id": 254,
+    "question": "",
+    "choices": [
+      "Route obligatoire pour les camions",
+      "Passage interdit aux camions transportant des matières dangereuses",
+      "Passage interdit aux camions remorque"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-059.png"
+  },
+  {
+    "id": 255,
+    "question": "",
+    "choices": [
+      "Passage interdit aux véhicules agricoles",
+      "Voie réservée aux véhicules agricoles",
+      "Stationnement à durée limitée pour les véhicules agricoles"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-060.png"
+  },
+  {
+    "id": 256,
+    "question": "",
+    "choices": [
+      "Fin de la zone \"dépassement interdit\"",
+      "Attention, route à deux voies",
+      "Fin de la zone \"interdit aux camions de dépasser\""
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-061.png"
+  },
+  {
+    "id": 257,
+    "question": "",
+    "choices": [
+      "Voie réservée aux camions",
+      "Fin de la zone \"interdit aux camions de dépasser\"",
+      "Attention, route à deux voies"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-062.png"
+  },
+  {
+    "id": 258,
+    "question": "",
+    "choices": [
+      "Stationnement interdit",
+      "Dépassement interdit aux véhicules de tous genres",
+      "Sens interdit"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-063.png"
+  },
+  {
+    "id": 259,
+    "question": "",
+    "choices": [
+      "Interdit de sarrêter et de stationner",
+      "Stationnement interdit",
+      "Sens interdit"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-064.png"
+  },
+  {
+    "id": 260,
+    "question": "",
+    "choices": [
+      "Obligation daller tout droit",
+      "Interdit de sarrêter içi",
+      "Interdit de passer dans cette direction"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-065.png"
+  },
+  {
+    "id": 261,
+    "question": "",
+    "choices": [
+      "Direction vers la gauche",
+      "Interdit de stationner à gauche",
+      "Interdit de tourner à gauche"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-066.png"
+  },
+  {
+    "id": 262,
+    "question": "",
+    "choices": [
+      "Interdit de stationner à droite",
+      "Interdit de tourner à droite",
+      "Direction vers la droite"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-067.png"
+  },
+  {
+    "id": 263,
+    "question": "",
+    "choices": [
+      "Zone de stationnement",
+      "Rond point",
+      "Interdit de tourner"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-068.png"
+  },
+  {
+    "id": 264,
+    "question": "",
+    "choices": [
+      "Interdit de stationner pour plus de 30 minutes",
+      "Vitesse maximale obligatoire",
+      "Vitesse minimale obligatoire"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-069.png"
+  },
+  {
+    "id": 265,
+    "question": "",
+    "choices": [
+      "Vitesse maximale: 30 km/heure",
+      "Interdit de stationner pour plus de 30 minutes",
+      "Fin de vitesse minimale obligatoire"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-070.png"
+  },
+  {
+    "id": 266,
+    "question": "",
+    "choices": [
+      "Attention, route glissante",
+      "Enlever les chaînes à neige",
+      "Véhicules équipés de chaines à neige uniquement"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-071.png"
+  },
+  {
+    "id": 267,
+    "question": "",
+    "choices": [
+      "Parc",
+      "Passage interdit aux piétons",
+      "Voie réservée aux piétons"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-072.png"
+  },
+  {
+    "id": 268,
+    "question": "",
+    "choices": [
+      "Fin de la voie réservée aux piétons",
+      "Voie réservée aux piétons",
+      "Passage piéton au-dessus de la route"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-073.png"
+  },
+  {
+    "id": 269,
+    "question": "",
+    "choices": [
+      "Piste cyclable",
+      "Stationnement interdit aux deux roues",
+      "Passage interdit aux deux roues"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-074.png"
+  },
+  {
+    "id": 270,
+    "question": "",
+    "choices": [
+      "Obligation de tourner à gauche",
+      "Interdit de stationner à gauche",
+      "Interdit de touner à gauche"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-075.png"
+  },
+  {
+    "id": 271,
+    "question": "",
+    "choices": [
+      "Hopital",
+      "Route à deux voies connectée à un pont",
+      "Attention, pont mobile"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-076.png"
+  },
+  {
+    "id": 272,
+    "question": "",
+    "choices": [
+      "Fin de la voie réservée aux piétons",
+      "Attention, passage piéton",
+      "Attention, passage interdit aux piétons"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-077.png"
+  },
+  {
+    "id": 273,
+    "question": "",
+    "choices": [
+      "Passage interdit aux deux roues",
+      "Voie résrvéee aux deux roues",
+      "Piste cyclable"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-078.png"
+  },
+  {
+    "id": 274,
+    "question": "",
+    "choices": [
+      "Point de rencontre de deux voies",
+      "Chemin menant à une route principale",
+      "Impasse"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-079.png"
+  },
+  {
+    "id": 275,
+    "question": "",
+    "choices": [
+      "Attention, piste de décollage et datterrissage",
+      "Attention, pont",
+      "Autoroute"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-080.png"
+  },
+  {
+    "id": 276,
+    "question": "",
+    "choices": [
+      "Attention, route étroite",
+      "Pont au-dessus de la route",
+      "Fin de lautoroute"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-081.png"
+  },
+  {
+    "id": 277,
+    "question": "",
+    "choices": [
+      "Attention, route rugueuse",
+      "Tunnel",
+      "Pont"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-082.png"
+  },
+  {
+    "id": 278,
+    "question": "",
+    "choices": [
+      "Réservé aux médecins",
+      "Zone de stationnement réservée aux handicapés",
+      "Centre dassistance"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-083.png"
+  },
+  {
+    "id": 279,
+    "question": "",
+    "choices": [
+      "Stationnement interdit aux handicapés",
+      "Stationnement à durée limitée",
+      "Zone de stationnement réservée aux handicapés"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-084.png"
+  },
+  {
+    "id": 280,
+    "question": "",
+    "choices": [
+      "Zone de stationnement",
+      "Stationnement à durée limitée",
+      "Stationnement interdit"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-085.png"
+  },
+  {
+    "id": 281,
+    "question": "",
+    "choices": [
+      "Zone de stationnement pour tous genres de véhicules- deux voitures taxi au maximum",
+      "Stationnement interdit aux taxis",
+      "Zone de stationnement pour taxis"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-086.png"
+  },
+  {
+    "id": 282,
+    "question": "",
+    "choices": [
+      "Enlèvement immédiat",
+      "Information",
+      "Police"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-087.png"
+  },
+  {
+    "id": 283,
+    "question": "",
+    "choices": [
+      "Centre dinternet",
+      "Station service",
+      "Information"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-088.png"
+  },
+  {
+    "id": 284,
+    "question": "",
+    "choices": [
+      "Police municipale",
+      "Zone de stationnement pour police",
+      "Pompiers"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-089.png"
+  },
+  {
+    "id": 285,
+    "question": "",
+    "choices": [
+      "Voie principlae",
+      "Intersection dangereuse",
+      "Virage indirect vers la gauche"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-090.png"
+  },
+  {
+    "id": 286,
+    "question": "",
+    "choices": [
+      "Zone de stationnement",
+      "Stationnement à durée limitée",
+      "Stationnement interdit"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-091.png"
+  },
+  {
+    "id": 287,
+    "question": "",
+    "choices": [
+      "Hotel",
+      "Restaurant",
+      "Garage"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-092.png"
+  },
+  {
+    "id": 288,
+    "question": "",
+    "choices": [
+      "Restaurant",
+      "Information",
+      "Rafraîchissements"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-093.png"
+  },
+  {
+    "id": 289,
+    "question": "",
+    "choices": [
+      "Station service",
+      "Téléphone publique",
+      "Restaurant"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-094.png"
+  },
+  {
+    "id": 290,
+    "question": "",
+    "choices": [
+      "Station service",
+      "Garage",
+      "Restaurant"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-095.png"
+  },
+  {
+    "id": 291,
+    "question": "",
+    "choices": [
+      "Voie réservée aux bus",
+      "Stationnement interdit aux bus",
+      "Zone de stationnement pour bus"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-096.png"
+  },
+  {
+    "id": 292,
+    "question": "",
+    "choices": [
+      "Stationnement interdit",
+      "Centre de secours",
+      "Zone de camping et camping cars"
+    ],
+    "correctIndex": 2,
+    "image": "assets/signs/sign-097.png"
+  },
+  {
+    "id": 293,
+    "question": "",
+    "choices": [
+      "Virage",
+      "Ralentissez",
+      "Virage indirect vers la gauche"
+    ],
+    "correctIndex": 0,
+    "image": "assets/signs/sign-098.png"
+  },
+  {
+    "id": 294,
+    "question": "",
+    "choices": [
+      "Ralentissez",
+      "Virage indirect vers la gauche",
+      "Virage"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-099.png"
+  },
+  {
+    "id": 295,
+    "question": "",
+    "choices": [
+      "Attention, virage à droite",
+      "Attention, casse-vitesse",
+      "Attention, abaissement de la route"
+    ],
+    "correctIndex": 1,
+    "image": "assets/signs/sign-100.png"
+  }
+]

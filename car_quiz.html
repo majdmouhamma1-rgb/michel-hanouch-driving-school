@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#e10600" />
+  <title>اختبار السيارات خصوصي | مدرسة ميشال حنوش</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="icon" type="image/png" href="assets/michologo.png" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="page">
+    <section class="card">
+      <div class="quiz-brand">
+        <img class="quiz-brand-logo" src="assets/michologo.png" alt="شعار مدرسة ميشال حنوش" />
+        <p class="quiz-brand-name">مدرسة ميشال جوزيف حنوش<br />لتعليم قيادة السيارات</p>
+      </div>
+
+      <div id="languageView" class="language-view">
+        <div class="header">
+          <h1 class="title small">اختر لغة الاختبار</h1>
+          <div class="sub">Choose your language · Choisissez votre langue</div>
+        </div>
+        <div class="language-actions">
+          <button class="btn btn-primary language-btn" data-lang="ar">العربية</button>
+          <button class="btn btn-primary language-btn" data-lang="en">English</button>
+          <button class="btn btn-primary language-btn" data-lang="fr">Français</button>
+        </div>
+        <div class="results-actions language-home-action">
+          <button id="languageHomeBtn" class="btn btn-secondary">الرجوع للرئيسية</button>
+        </div>
+      </div>
+
+      <div id="quizView" class="hidden">
+        <div class="header">
+          <h1 id="quizTitle" class="title small">اختبار قيادة السيارات خصوصي</h1>
+          <div id="userName" class="sub user-name"></div>
+          <div id="userPhone" class="sub user-phone"></div>
+        </div>
+        <div id="qCounterTop" class="counter-top"></div>
+        <div id="progress" class="progress"></div>
+        <div class="qbox">
+          <img id="qImg" class="qimg hidden" alt="question image" />
+          <div id="qText" class="question"></div>
+        </div>
+        <div id="choices" class="choices"></div>
+        <div id="feedback" class="feedback hidden"></div>
+        <div class="actions">
+          <button id="confirmBtn" class="btn btn-secondary" disabled>تأكيد الإجابة</button>
+          <button id="nextBtn" class="btn btn-primary" disabled>السؤال التالي</button>
+        </div>
+      </div>
+
+      <div id="resultsView" class="hidden">
+        <div class="header">
+          <h1 id="resultTitle" class="title small">النتيجة</h1>
+          <div id="resultUser" class="sub"></div>
+        </div>
+        <div id="scoreBox" class="score-box"></div>
+        <div class="results-actions">
+          <button id="retryBtn" class="btn btn-primary">إعادة اختبار (30 سؤال)</button>
+          <button id="changeLangBtn" class="btn btn-secondary">تغيير اللغة</button>
+          <button id="homeBtn" class="btn btn-secondary">الرجوع للرئيسية</button>
+        </div>
+        <div id="reviewList" class="review-list"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <span>© 2026 مدرسة ميشال حنوش</span><span class="footer-separator">•</span>
+    <span>Designed & developed by MAJD MOUHAMMAD</span><span class="footer-separator">•</span>
+    <a class="phone-line" href="tel:+96181342594">81 342 594</a>
+  </footer>
+
+  <script src="car_app.js"></script>
+</body>
+</html>
