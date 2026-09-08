@@ -1,0 +1,460 @@
+<!doctype html>
+
+<html lang="ar" dir="rtl">
+
+<head>
+
+  <meta charset="utf-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+  >
+
+  <title>
+    سجل الاختبارات | مدرسة ميشال حنوش
+  </title>
+
+  <link
+    rel="icon"
+    type="image/png"
+    href="assets/michologo.png"
+  >
+
+  <link
+    rel="preconnect"
+    href="https://fonts.googleapis.com"
+  >
+
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin
+  >
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800;900&display=swap"
+    rel="stylesheet"
+  >
+
+
+  <style>
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+
+      font-family:
+        "Cairo",
+        sans-serif;
+
+      background: #111;
+
+      color: white;
+
+      min-height: 100vh;
+    }
+
+
+    .history-page {
+      width: 92%;
+
+      max-width: 850px;
+
+      margin: auto;
+
+      padding: 40px 0;
+    }
+
+
+    .logo {
+      display: block;
+
+      width: 110px;
+
+      margin:
+        0 auto
+        15px;
+    }
+
+
+    h1 {
+      text-align: center;
+
+      margin-bottom: 5px;
+    }
+
+
+    .subtitle {
+      text-align: center;
+
+      color: #bbb;
+
+      margin-bottom: 30px;
+    }
+
+
+    .history-item {
+      background: #1d1d1d;
+
+      border:
+        1px solid
+        #333;
+
+      border-radius: 15px;
+
+      padding: 18px;
+
+      margin-bottom: 15px;
+    }
+
+
+    .history-top {
+      display: flex;
+
+      justify-content:
+        space-between;
+
+      align-items:
+        center;
+
+      gap: 10px;
+
+      margin-bottom: 12px;
+    }
+
+
+    .history-date {
+      color: #aaa;
+
+      font-size: 14px;
+    }
+
+
+    .score {
+      font-size: 25px;
+
+      font-weight: 900;
+    }
+
+
+    .passed {
+      color: #28c76f;
+
+      font-weight: 800;
+    }
+
+
+    .failed {
+      color: #ff4d4d;
+
+      font-weight: 800;
+    }
+
+
+    .language {
+      margin-top: 5px;
+
+      color: #ddd;
+    }
+
+
+    .buttons {
+      display: flex;
+
+      justify-content: center;
+
+      gap: 12px;
+
+      flex-wrap: wrap;
+
+      margin-top: 30px;
+    }
+
+
+    .btn {
+      border: none;
+
+      border-radius: 10px;
+
+      padding:
+        12px 22px;
+
+      font-family:
+        "Cairo",
+        sans-serif;
+
+      font-weight: 800;
+
+      font-size: 15px;
+
+      cursor: pointer;
+
+      text-decoration: none;
+    }
+
+
+    .home-btn {
+      background: #e10600;
+
+      color: white;
+    }
+
+
+    .clear-btn {
+      background: #333;
+
+      color: white;
+    }
+
+
+    .empty {
+      text-align: center;
+
+      background: #1d1d1d;
+
+      padding: 35px;
+
+      border-radius: 15px;
+
+      color: #aaa;
+    }
+
+  </style>
+
+</head>
+
+
+<body>
+
+
+  <main class="history-page">
+
+
+    <img
+      class="logo"
+      src="assets/michologo.png"
+      alt="Michel Hanouch Driving School"
+    >
+
+
+    <h1>
+      سجل الاختبارات
+    </h1>
+
+
+    <div class="subtitle">
+      Test History
+    </div>
+
+
+    <div id="historyList"></div>
+
+
+    <div class="buttons">
+
+
+      <a
+        href="index.html"
+        class="btn home-btn"
+      >
+        الرجوع للرئيسية
+      </a>
+
+
+      <button
+        id="clearHistory"
+        class="btn clear-btn"
+      >
+        حذف السجل
+      </button>
+
+
+    </div>
+
+
+  </main>
+
+
+
+<script>
+
+const historyList =
+  document.getElementById(
+    "historyList"
+  );
+
+
+function languageName(lang) {
+
+  if (lang === "ar") {
+    return "العربية";
+  }
+
+  if (lang === "en") {
+    return "English";
+  }
+
+  if (lang === "fr") {
+    return "Français";
+  }
+
+  return lang;
+}
+
+
+
+function showHistory() {
+
+  const history =
+    JSON.parse(
+      localStorage.getItem(
+        "car_test_history"
+      ) || "[]"
+    );
+
+
+  historyList.innerHTML = "";
+
+
+  if (history.length === 0) {
+
+    historyList.innerHTML = `
+
+      <div class="empty">
+
+        لا يوجد اختبارات محفوظة بعد
+
+        <br>
+
+        No saved tests yet
+
+      </div>
+
+    `;
+
+    return;
+  }
+
+
+
+  history.forEach(
+    (test) => {
+
+
+      const item =
+        document.createElement(
+          "div"
+        );
+
+
+      item.className =
+        "history-item";
+
+
+      item.innerHTML = `
+
+        <div class="history-top">
+
+          <div>
+
+            <div class="score">
+
+              ${test.score}
+              /
+              ${test.total}
+
+            </div>
+
+            <div
+              class="${
+                test.passed
+                  ? "passed"
+                  : "failed"
+              }"
+            >
+
+              ${
+                test.passed
+                  ? "✓ ناجح - PASSED"
+                  : "✗ راسب - FAILED"
+              }
+
+            </div>
+
+          </div>
+
+
+          <div class="history-date">
+
+            ${test.date}
+
+          </div>
+
+        </div>
+
+
+        <div class="language">
+
+          اللغة / Language:
+          <strong>
+            ${languageName(test.language)}
+          </strong>
+
+        </div>
+
+      `;
+
+
+      historyList.appendChild(
+        item
+      );
+
+    }
+  );
+}
+
+
+
+document
+  .getElementById(
+    "clearHistory"
+  )
+  .addEventListener(
+    "click",
+    () => {
+
+
+      const yes =
+        confirm(
+          "هل تريد حذف جميع نتائج الاختبارات؟"
+        );
+
+
+      if (!yes) {
+        return;
+      }
+
+
+      localStorage.removeItem(
+        "car_test_history"
+      );
+
+
+      showHistory();
+
+    }
+  );
+
+
+showHistory();
+
+</script>
+
+
+</body>
+
+</html> 
